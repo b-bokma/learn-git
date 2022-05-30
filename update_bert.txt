@@ -1,2 +1,0 @@
-voorbeeld bestand voor de git training.
-Inclusief een wijziging op de branch
